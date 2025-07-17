@@ -91,6 +91,6 @@ curl "http://localhost:8080/processes?min_memory=200&min_cpu=0.5"
          "cmdline": "/usr/lib/snapd/snapd"
       }
   ],
-  "count": 1
+  "count": 3
 }
 ```
